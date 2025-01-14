@@ -114,3 +114,10 @@ p {
 .div-condicoes .realce-italic .div-condicoes .realce-underline {
   color: #78d4ff;
 }
+
+.img-app {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  width: 8.5rem;
+}
